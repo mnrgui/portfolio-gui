@@ -50,6 +50,9 @@
   --heading-color: #ffffff;
   --surface-color: #252525;
   --contrast-color: #ffffff;
+  background-image: url("../img/fundo.png");
+  background-size: cover;
+  background-position: center;
 }
 
 .accent-background {
